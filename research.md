@@ -19,6 +19,8 @@ With Panagiotis Karavitis and Tianyue Xu.
 ### [Corporate Social Responsibility and Profit Shifting](https://doi.org/10.1080/09638180.2024.2303971)
 With Iftekhar Hasan, Panagiotis Karavitis, and Woon Sau Leung.  
 *European Accounting Review*, 2025, 34(1), 1–29. Lead article.
+- Media coverage: [The Columbia Law School (CLS) Blue Sky Blog](https://clsbluesky.law.columbia.edu/2019/02/21/does-corporate-social-responsibility-reduce-profit-shifting/)
+- Finalist for the Best Paper Award, FMA Annual Meeting 2019
 
 ### [Overconfident CEOs, Corporate Social Responsibility & Tax Avoidance: Evidence from China](https://doi.org/10.1016/j.intaccaudtax.2025.100702)
 With Panagiotis Karavitis and Tianyue Xu.  
