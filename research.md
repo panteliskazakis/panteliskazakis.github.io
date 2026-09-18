@@ -71,20 +71,20 @@ With Manthos Delis and Iftekhar Hasan.
 
 ## Working papers
 
-### Investment Efficiency of Private and Public Firms
+### Investment Efficiency of Private and Public Firms <span style="color:#c62828;">(revise and resubmit)</span>
 With Woon-Sau Leung and Steven Ongena. May 2026.
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596489" aria-label="Read Investment Efficiency of Private and Public Firms on SSRN">SSRN</a>
 
 <ul>
   <li>
-    Media coverage:
+    Media:
     <a href="https://clsbluesky.law.columbia.edu/2023/11/20/do-private-or-public-firms-invest-more-efficiently/">The Columbia Law School (CLS) Blue Sky Blog, 20 November 2023</a>;
     <a href="https://abmagazine.accaglobal.com/global/articles/2025/oct/business/investment-warning-for-big-businesses.html">AB Magazine (ACCA), 23 October 2025</a>
   </li>
 </ul>
 
-### The contagion effect of upstream firms’ environmental misconduct on downstream firms’ green innovation
+### The contagion effect of upstream firms’ environmental misconduct on downstream firms’ green innovation <span style="color:#c62828;">(revise and resubmit)</span>
 With Jifeng Hong and Martin Strieborny. August 2026.
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029125" aria-label="Read The contagion effect of upstream firms’ environmental misconduct on downstream firms’ green innovation on SSRN">SSRN</a>
