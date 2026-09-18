@@ -15,6 +15,12 @@ With Panagiotis Karavitis and Tianyue Xu.
 
 ### [Conditional gains: when AI investment enhances firm efficiency](https://onlinelibrary.wiley.com/doi/10.1111/sjpe.70055)
 *Scottish Journal of Political Economy*, 2026, 73(4), e70055.
+<ul>
+  <li>
+    Media coverage:
+    <a href="https://abmagazine.accaglobal.com/global/articles/2026/sept/business/the-ai-productivity-trap.html">ACCA's AB Magazine, September 2026</a>
+  </li>
+</ul>
 
 ### [Corporate Social Responsibility and Profit Shifting](https://doi.org/10.1080/09638180.2024.2303971)
 With Iftekhar Hasan, Panagiotis Karavitis, and Woon Sau Leung.  
@@ -70,6 +76,14 @@ With Woon-Sau Leung and Steven Ongena. May 2026.
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596489" aria-label="Read Investment Efficiency of Private and Public Firms on SSRN">SSRN</a>
 
+<ul>
+  <li>
+    Media coverage:
+    <a href="https://clsbluesky.law.columbia.edu/2023/11/20/do-private-or-public-firms-invest-more-efficiently/">The Columbia Law School (CLS) Blue Sky Blog, 20 November 2023</a>;
+    <a href="https://abmagazine.accaglobal.com/global/articles/2025/oct/business/investment-warning-for-big-businesses.html">AB Magazine (ACCA), 23 October 2025</a>
+  </li>
+</ul>
+
 ### The contagion effect of upstream firms’ environmental misconduct on downstream firms’ green innovation
 With Jifeng Hong and Martin Strieborny. August 2026.
 
@@ -98,6 +112,12 @@ With Jifeng Hong, Junwei Fan, and Lu Xing. July 2026.
 
 ### Tax regimes and profit shifting
 With Panagiotis Karavitis, Rajni Soni, and Theodore Sougiannis. May 2026.
+
+<ul>
+  <li>
+    Best Paper in Accounting Award, Financial Management &amp; Accounting Research Conference (FMARC).
+  </li>
+</ul>
 
 ### E-Government and Corporate Tax Planning: International Evidence
 With Christof Beuselinck, Panagiotis Karavitis, and Niswatil Mouna. April 2026.
