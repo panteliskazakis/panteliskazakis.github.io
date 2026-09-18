@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title != 'Home' %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <script src="{{ '/assets/theme.js' | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="identity" href="{{ '/' | relative_url }}"><span class="monogram" aria-hidden="true">PK</span><span>{{ site.name }}</span></a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.title == 'Home' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
+        <a href="{{ '/teaching.html' | relative_url }}"{% if page.title == 'Teaching' %} aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ '/cv.html' | relative_url }}"{% if page.title == 'CV' %} aria-current="page"{% endif %}>CV</a>
+      </nav>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Dark mode" aria-pressed="false" hidden>
+        <span class="theme-dot" aria-hidden="true"></span> Dark mode
+      </button>
+    </div>
+  </header>
+  <main id="main" class="site-main" tabindex="-1">{{ content }}</main>
+  <footer class="site-footer">
+    <div><span>{{ site.name }}</span><span>Adam Smith Business School · University of Glasgow</span></div>
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </footer>
+</body>
+</html>
