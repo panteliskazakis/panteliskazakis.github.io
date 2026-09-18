@@ -1,0 +1,15 @@
+title: Pantelis Kazakis
+description: Finance research and teaching at the Adam Smith Business School, University of Glasgow.
+url: "https://panteliskazakis.github.io"
+baseurl: ""
+name: Pantelis Kazakis
+email: pantelis.kazakis@glasgow.ac.uk
+photo: /assets/photo.jpg
+# Replace assets/CV.pdf to update the CV opened by the link on the CV page.
+cv_pdf: "/assets/CV.pdf"
+markdown: kramdown
+exclude:
+  - README.md
+  - EDITING-GUIDE.md
+  - preview
+
