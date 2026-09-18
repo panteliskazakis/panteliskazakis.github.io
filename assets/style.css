@@ -81,3 +81,13 @@ address{font-size:.875rem;color:var(--muted);font-style:normal;margin-top:1.1rem
 .page-prose ul a{
   color:var(--accent);
 }
+
+/* Font for the courses I tought. It affects only the teaching webpage */
+.teaching-list ul{
+  font-size:1.08rem;
+  line-height:1.75;
+}
+
+.teaching-list li{
+  margin-bottom:.2rem;
+}
