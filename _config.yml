@@ -6,10 +6,9 @@ name: Pantelis Kazakis
 email: pantelis.kazakis@glasgow.ac.uk
 photo: /assets/photo.jpg
 # Replace assets/CV.pdf to update the CV opened by the link on the CV page.
-cv_pdf: "/assets/CV.pdf"
+cv_pdf: "/assets/CV_Kazakis.pdf"
 markdown: kramdown
 exclude:
   - README.md
   - EDITING-GUIDE.md
   - preview
-
