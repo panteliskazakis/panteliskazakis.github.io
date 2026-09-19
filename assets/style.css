@@ -93,3 +93,45 @@ address{font-size:.875rem;color:var(--muted);font-style:normal;margin-top:1.1rem
 .teaching-list li{
   margin-bottom:.2rem;
 }
+
+/* Academic profile links */
+.academic-links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.7rem 1.2rem;
+  margin-top:1.8rem;
+  align-items:center;
+}
+
+.academic-links a{
+  display:inline-flex;
+  align-items:center;
+  gap:.42rem;
+  color:var(--muted);
+  text-decoration:none;
+  font-size:.92rem;
+  font-weight:500;
+}
+
+.academic-links a:hover{
+  color:var(--accent);
+}
+
+.academic-links i{
+  font-size:1.2rem;
+  color:var(--accent);
+}
+
+@media(max-width:650px){
+  .academic-links{
+    gap:.7rem 1rem;
+  }
+
+  .academic-links a{
+    font-size:.87rem;
+  }
+
+  .academic-links i{
+    font-size:1.1rem;
+  }
+}
