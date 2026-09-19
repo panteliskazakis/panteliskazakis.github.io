@@ -39,7 +39,11 @@
   </header>
   <main id="main" class="site-main" tabindex="-1">{{ content }}</main>
   <footer class="site-footer">
-    <div><span>{{ site.name }}</span><span>Adam Smith Business School · University of Glasgow</span></div>
+     <div>
+      <span>{{ site.name }}</span>
+      <span>Adam Smith Business School · University of Glasgow</span>
+      <span>Updated {{ site.time | date: "%B %Y" }}</span>
+    </div>
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </footer>
 </body>
