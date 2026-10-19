@@ -99,9 +99,6 @@ With Jifeng Hong and Martin Strieborny. March 2026.
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064454" aria-label="Read Green Bond Issuance, External Monitoring, and Default Probability: Evidence from Green Policy Shocks on SSRN">SSRN</a>
 
-### Local Information and Private Capital Allocation: Evidence from Newspaper Closures
-With Jiankun Li and Lu Xing. September 2026.
-
 ### Nature Dependence and Labor Investment Efficiency
 With Jifeng Hong, Steven Ongena, and Martin Strieborny. August 2026.
 
