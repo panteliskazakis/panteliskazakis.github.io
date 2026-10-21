@@ -80,6 +80,13 @@ address{font-size:.875rem;color:var(--muted);font-style:normal;margin-top:1.1rem
   color:var(--accent);
 }
 
+.page-prose .teaching-location {
+  font-size: 1.55rem;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 1.2rem;
+}
+
 /* Font for the courses I tought. It affects only the teaching webpage */
 .page-prose .teaching-list{
   font-size:1.18rem;
@@ -89,10 +96,6 @@ address{font-size:.875rem;color:var(--muted);font-style:normal;margin-top:1.1rem
 }
 
 .page-prose .teaching-list li{
-  margin-bottom:.2rem;
-}
-
-.teaching-list li{
   margin-bottom:.2rem;
 }
 
