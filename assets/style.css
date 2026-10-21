@@ -11,7 +11,6 @@ a:focus-visible{outline:3px solid var(--accent);outline-offset:5px;border-radius
 .site-header{border-bottom:1px solid var(--line)}
 .header-inner{max-width:1140px;margin:auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1.5rem;padding:1.3rem 2.5rem}
 .identity{display:flex;align-items:center;gap:.8rem;color:var(--navy);font-size:1rem;font-weight:650;text-decoration:none}
-.monogram{font-family:Georgia,serif;font-weight:400;background:var(--button-bg);color:var(--button-ink);display:grid;place-items:center;width:39px;height:39px;font-size:1.125rem;flex-shrink:0}
 nav{display:flex;gap:1.8rem;flex-wrap:wrap}
 nav a{color:var(--muted);font-size:.9375rem;text-decoration:none;padding:.35rem 0;border-bottom:2px solid transparent}
 nav a[aria-current="page"]{color:var(--navy);border-bottom-color:var(--accent);font-weight:650}
@@ -70,7 +69,6 @@ address{font-size:.875rem;color:var(--muted);font-style:normal;margin-top:1.1rem
 .theme-toggle:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
 .theme-dot{width:1rem;height:1rem;border:1.5px solid currentColor;border-radius:50%;background:linear-gradient(90deg,currentColor 50%,transparent 50%);flex-shrink:0}
 .theme-toggle[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
-@media(max-width:650px){.header-inner{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:1rem .6rem}.identity{grid-column:1;grid-row:1;font-size:.875rem;gap:.5rem}.theme-toggle{grid-column:2;grid-row:1;font-size:.875rem;padding:.5rem}.theme-dot{display:none}nav{grid-column:1/-1;grid-row:2;gap:1.65rem}.monogram{width:32px;height:32px;font-size:1rem}}
 @media print{:root,:root[data-theme="dark"]{color-scheme:light;--navy:#133b56;--ink:#233443;--muted:#586571;--accent:#006f76;--line:#dce3e8;--wash:#f3f6f8;--background:#fff;--button-bg:#133b56;--button-ink:#fff;--subtle-line:#e8edf0;--link-line:#9ab2c2;--button-line:#91a8b8}.theme-toggle{display:none}}
 
 /* For the color accent of the bullet points below publications */
@@ -135,3 +133,9 @@ address{font-size:.875rem;color:var(--muted);font-style:normal;margin-top:1.1rem
     font-size:1.1rem;
   }
 }
+
+.brand-logo { display: block; width: auto; height: 30px; }
+.brand-logo-dark { display: none; }
+
+:is([data-theme="dark"], .dark, .dark-mode, .theme-dark) .brand-logo-light { display: none; }
+:is([data-theme="dark"], .dark, .dark-mode, .theme-dark) .brand-logo-dark { display: block; }
