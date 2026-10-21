@@ -28,7 +28,7 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="header-inner">
-      <a class="identity" href="{{ '/' | relative_url }}"><span class="monogram" aria-hidden="true">PK</span><span>{{ site.name }}</span></a>
+        <a class="identity" href="{{ '/' | relative_url }}"><img class="brand-logo brand-logo-light" src="{{ '/assets/logo-psk-light.svg' | relative_url }}" alt="" width="86" height="30"><img class="brand-logo brand-logo-dark" src="{{ '/assets/logo-psk-dark.svg' | relative_url }}" alt="" width="86" height="30"><span>{{ site.name }}</span></a>
       <nav aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}"{% if page.title == 'Home' %} aria-current="page"{% endif %}>Home</a>
         <a href="{{ '/research.html' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
