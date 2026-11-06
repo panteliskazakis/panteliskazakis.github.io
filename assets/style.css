@@ -22,6 +22,7 @@ nav a[aria-current="page"]{color:var(--navy);border-bottom-color:var(--accent);f
 .eyebrow{font-size:.8125rem;font-weight:650;letter-spacing:.11em;text-transform:uppercase;color:var(--accent);margin:0 0 1.1rem}
 h1,h2,h3{color:var(--navy);font-family:Georgia,"Times New Roman",serif;font-weight:400;line-height:1.22;overflow-wrap:break-word}
 h1{font-size:3.5rem;letter-spacing:-.035em;margin:.65rem 0 1.6rem}
+@media screen and (min-width: 851px) { .home-copy h1 { font-size: 3rem; } }
 .home-copy .prose>p:first-child{font-size:1.25rem;line-height:1.65}
 .prose p{margin:0 0 1.25rem}
 .prose strong{font-weight:600}
