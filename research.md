@@ -89,26 +89,31 @@ With Jifeng Hong and Martin Strieborny. August 2026.
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029125" aria-label="Read The contagion effect of upstream firms’ environmental misconduct on downstream firms’ green innovation on SSRN">SSRN</a>
 
+### Centralized Disclosure and Bank Loan Contracting
+With Jifeng Hong and Lu Xing
+
+<a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7733578" aria-label="Read Centralized Disclosure and Bank Loan Contracting on SSRN">SSRN</a>
+
 ### Artificial Intelligence Focus and Labor Investment Efficiency
-With Zhaolin Zhang and Mengqian Chen. August 2026.
+With Zhaolin Zhang and Mengqian Chen
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7376298" aria-label="Read Artificial Intelligence Focus and Labor Investment Efficiency on SSRN">SSRN</a>
 
 ### Green Bond Issuance, External Monitoring, and Default Probability: Evidence from Green Policy Shocks
-With Jifeng Hong and Martin Strieborny. March 2026.
+With Jifeng Hong and Martin Strieborny
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064454" aria-label="Read Green Bond Issuance, External Monitoring, and Default Probability: Evidence from Green Policy Shocks on SSRN">SSRN</a>
 
 ### Nature Dependence and Labor Investment Efficiency
-With Jifeng Hong, Steven Ongena, and Martin Strieborny. August 2026.
+With Jifeng Hong, Steven Ongena, and Martin Strieborny
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7344562" aria-label="Read Nature Dependence and Labor Investment Efficiency on SSRN">SSRN</a>
 
 ### Zodiac Year Beliefs and Green Investment Efficiency
-With Jifeng Hong, Junwei Fan, and Lu Xing. July 2026.
+With Jifeng Hong, Junwei Fan, and Lu Xing
 
 ### Tax regimes and profit shifting
-With Panagiotis Karavitis, Rajni Soni, and Theodore Sougiannis. May 2026.
+With Panagiotis Karavitis, Rajni Soni, and Theodore Sougiannis
 
 <ul>
   <li>
@@ -117,6 +122,6 @@ With Panagiotis Karavitis, Rajni Soni, and Theodore Sougiannis. May 2026.
 </ul>
 
 ### E-Government and Corporate Tax Planning: International Evidence
-With Christof Beuselinck, Panagiotis Karavitis, and Niswatil Mouna. April 2026.
+With Christof Beuselinck, Panagiotis Karavitis, and Niswatil Mouna
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024586" aria-label="Read E-Government and Corporate Tax Planning: International Evidence on SSRN">SSRN</a>
