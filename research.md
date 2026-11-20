@@ -89,10 +89,6 @@ With Jifeng Hong and Martin Strieborny. August 2026.
 
 <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029125" aria-label="Read The contagion effect of upstream firms’ environmental misconduct on downstream firms’ green innovation on SSRN">SSRN</a>
 
-### Centralized Disclosure and Bank Loan Contracting
-With Jifeng Hong and Lu Xing
-
-<a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7733578" aria-label="Read Centralized Disclosure and Bank Loan Contracting on SSRN">SSRN</a>
 
 ### Artificial Intelligence Focus and Labor Investment Efficiency
 With Zhaolin Zhang and Mengqian Chen
